@@ -94,6 +94,9 @@ aside{
   h4{
     font-weight: 800;
   }
+    #LearnMoreParagraph{
+      font-size: 12px;
+    }
 
   .AboutRelaxr{
     padding-bottom: 30px;
